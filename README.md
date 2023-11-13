@@ -1,5 +1,5 @@
 # 💫 About Me:
-About me $ ;
+$ ;
 Hello there! I'm Paresh Kumar, a dedicated Cloud Engineer with a strong foundation in computer science, holding a Bachelor's degree completed in 2016. I thrive in the dynamic world of AWS Cloud, boasting certification as an AWS Cloud Practitioner. My expertise extends to DevOps tools, including Terraform, Jenkins, and Docker. Proficient in Python, HTML, and YAML, I've leveraged these languages to enhance my ability to develop robust solutions. I've also gained practical insights into PC hardware, troubleshooting, and operating systems, rounding out my technical skill set. A  music lover , traveller & obviously a passionate learner. Well, I think that's enough introduction for now :)
 
 ## 🌐 Socials:
