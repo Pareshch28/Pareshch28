@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working as an Software Engineer <br>Graduated In Computer Science  From Kakatiya University<br>learning Devops <br>whatsapp or call on : 6302067159<br>Email Id : Choudaryparesh28@gmail.com<br>Energetic,Eager to learn new skills
+- "Hello there , I am  dedicated Cloud Engineer with a strong foundation in computer science, holding a Bachelor's degree completed in 2016. I thrive in the dynamic world of AWS Cloud, boasting certification as an AWS Cloud Practitioner. My expertise extends to DevOps tools, including Terraform, Jenkins, and Docker. Proficient in Python, HTML, and YAML, I've leveraged these languages to enhance my ability to develop robust solutions. I've also gained practical insights into PC hardware, troubleshooting, and operating systems, rounding out my technical skill set. Let's connect and explore the endless possibilities at the intersection of technology and innovation."
 
 
 ## 🌐 Socials:
