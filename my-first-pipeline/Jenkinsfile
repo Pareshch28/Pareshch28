@@ -1,11 +1,11 @@
 pipeline {
   agent {
-    docker { image 'openjdk-11-jre' }
+    docker { image 'ubuntu:latest' }
   }
   stages {
     stage('Test') {
       steps {
-        sh 'java --version'
+        sh 'ubuntu --version'
       }
     }
   }
